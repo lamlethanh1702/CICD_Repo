@@ -1,0 +1,10 @@
+3/27/2024 6:25:18 AM	This log contains information about the import schema operation into project 'CICD_DB' on computer 'DESKTOP-46KSGNE' by user 'Admin'.
+3/27/2024 6:25:18 AM	Deserializing model
+3/27/2024 6:25:18 AM	Resolving model
+3/27/2024 6:25:19 AM	Visiting imported model for types
+3/27/2024 6:25:19 AM	Scanning project for duplicate elements
+3/27/2024 6:25:19 AM	Finished duplicate element processing
+3/27/2024 6:25:19 AM	Processing extra files
+3/27/2024 6:25:19 AM	Finished importing Data-tier Application file.
+3/27/2024 6:25:19 AM	A summary of the import was saved to the following location: C:\SQL_studio\CICD_Repos\CICD_DB\CICD_DB\Import Schema Logs\CICD_DB_20240326112518.log
+3/27/2024 6:25:19 AM	Click Finish to continue...
